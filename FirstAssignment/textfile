@@ -1,0 +1,63 @@
+2. Which of these in not a core datatype?
+a) Lists b) Dictionary c) Tuples d) Class
+Ans:Class is not a core datatype.
+
+3. Following set of commands are executed in shell, what will be the output? str
+str="hello"
+  print[:2]
+a) he  b) lo    c) olleh    d) hello
+Ans: he
+
+4. What error occurs when you execute?
+a) SyntaxError  b) NameError    c)  ValueError  d) TypeError
+Ans: Syntax Error rest are the exceptions which can be handled.
+
+
+5. What dataype is the object below ? L = [1, 23, ‘hello’, 1]
+a) List b) dictionary c) array  d) tuple
+Ans: It is a list.
+
+6. In order to store values in terms of key and value we use what core datatype.
+a) List b) tuple c) class d) dictionary
+Ans: dictionary
+
+7. What is answer of this expression, 22 % 3 is?
+a) 7 b) 1 c) 0 d) 5
+Ans: 1
+
+8. You can perform mathematical operation on String?
+a) True b) False
+Ans: False
+
+9 What is the output of this expression, 3*1**3?
+a) 27 b) 9 c) 3 d) 1
+Ans: 3
+
+10 Differentiate between list and tuple with example
+list values can be added or removed based on the position. whereas tuple values can not be.
+list = [1,2,3]
+tuple = (1,2,3)
+here i can do list[2]=4 which will result in [1,2,4]
+tuple[2]= 4 will give error
+
+
+11. How to access last element of list ?
+there are multiple way. one way is list[-1]
+
+
+12. What Does The Index Out Of Range Error Mean?
+Means there are no more values available.
+
+
+13 How To Convert A List To A String?
+list = [1,2,3]
+string = ''.join(list)
+
+14 How To Sort a List in Python?
+using the keyword sort()
+list.sort()
+
+17 a =10 b = 20
+Is there any difference between (a is b ) and (a ==b) ?
+
+yes a is b will compare objects and a==b will compare values.
